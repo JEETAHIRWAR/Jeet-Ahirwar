@@ -1,28 +1,29 @@
-<h1 align="center">🔐 Hi, I'm Jeet Ahirwar 👋</h1>
-<h3 align="center">MCA (Cyber Security) | Aspiring SOC Analyst | Cybersecurity Enthusiast</h3>
+<h1 align="center">💻 Hi, I'm Jeet Ahirwar 👋</h1>
+<h3 align="center">Full Stack MERN Developer | Cybersecurity | React.js | Node.js | MongoDB | Secure Web Applications | SIEM</h3>
 
 <p align="center">
-Passionate about Cybersecurity, Threat Detection, Incident Response, and Secure Application Development.
+I am a Full Stack MERN Developer pursuing an MCA in Cyber Security, passionate about building scalable web applications, secure software, and understanding cybersecurity from both development and defensive perspectives.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am currently pursuing a **Master of Computer Applications (MCA) with a specialization in Cyber Security**. I am passionate about protecting digital systems, analyzing security threats, and building secure applications.
+I am a **Full Stack MERN Developer** currently pursuing a **Master of Computer Applications (MCA) with a specialization in Cyber Security**. I build real-world web applications while applying cybersecurity concepts to develop secure software.
 
-* 🔐 Interested in SOC Operations, Incident Response, and Threat Detection
-* 🛡️ Learning SIEM, Phishing Analysis, Vulnerability Assessment, and Security Monitoring
-* 💻 Skilled in Python, MySQL, MongoDB, JavaScript, React.js, Node.js, and Express.js
-* 🌱 Currently improving my knowledge in Cybersecurity, Cloud Security, and Security Operations
-* 🎯 Career Goal: Build a successful career in Cybersecurity and Security Operations
+* 💻 Full Stack MERN Developer building scalable web applications with React.js, Node.js, Express.js, and MongoDB
+* 🎓 Pursuing MCA with specialization in Cyber Security
+* 🔐 Focused on secure application development, authentication, and secure coding practices
+* 🛡️ Learning and practicing SIEM, security monitoring, phishing analysis, network security, and incident response
+* 🌱 Continuously improving both software development and cybersecurity skills
+* 🎯 Career Direction: Combining software engineering with cybersecurity to build secure applications
 
 ---
 
 ## 🏆 Certifications
 
 * Google Cybersecurity Professional Certificate
-* ISC2 Certified in Cybersecurity (CC) - Learning Path
+* ISC2 Certified in Cybersecurity (CC) — Learning Path (In Progress)
 * Business Intelligence Analytics
 
 ---
@@ -32,48 +33,66 @@ I am currently pursuing a **Master of Computer Applications (MCA) with a special
 ### Cybersecurity
 
 * SIEM
-* Incident Response
-* Phishing Analysis
+* Splunk
 * Security Monitoring
-* Risk Management
-* Vulnerability Assessment
+* Phishing Analysis
+* Incident Response
 * Network Security
+* Vulnerability Assessment
+* MITRE ATT&CK fundamentals
+* Wireshark
+* Linux
 
 ### Programming & Development
 
-* Python
 * JavaScript
+* Python
+* React.js
+* Node.js
+* Express.js
 * MERN Stack
 * REST APIs
+* Socket.IO
+* JWT Authentication
 
 ### Databases
 
-* MySQL
 * MongoDB
+* MySQL
 
 ### Tools
 
 * Git
 * GitHub
-* Linux
+* Postman
 * VS Code
+* Wireshark
+* Splunk
+* Linux
 
 ---
 
 ## 🚀 Featured Projects
 
+### OpportunityX
+
+MERN-based job portal demonstrating full-stack application development, authentication, APIs, database integration, and modern web application architecture.
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT, REST APIs
+
 ### Real-Time Chat Application
 
-Secure real-time messaging application built using MERN Stack and Socket.IO.
+Real-time messaging application built using the MERN stack and Socket.IO, with authentication and real-time communication.
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Socket.IO, JWT Authentication
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Socket.IO, JWT
 
-### Cybersecurity Projects
+### Phishing Email Investigation Lab
 
-* Security Analysis Labs
-* Threat Landscape Investigation
-* Network Security Assessments
-* Phishing Detection Exercises
+Cybersecurity investigation project focused on analyzing suspicious/phishing emails and identifying indicators of compromise and attack characteristics.
+
+### SIEM Brute Force Detection Lab
+
+Security monitoring lab focused on identifying brute-force authentication activity using SIEM concepts and log analysis.
 
 ---
 
@@ -84,7 +103,7 @@ Secure real-time messaging application built using MERN Stack and Socket.IO.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com">
+  <a href="https://linkedin.com/in/jeetahirwar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -98,7 +117,7 @@ Secure real-time messaging application built using MERN Stack and Socket.IO.
 ---
 
 <p align="center">
-<b>"Securing systems, analyzing threats, and continuously learning."</b>
+<b>"Building secure software at the intersection of development and cybersecurity."</b>
 </p>
 ---
 
